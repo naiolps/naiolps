@@ -22,6 +22,6 @@
 <div >
 <a href="https://www.instagram.com/breno.ps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:pereiradossantosbreno4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" 
-     src="https://instagram.fssz6-1.fna.fbcdn.net/v/t51.2885-19/302713031_190059983407475_8150916469106881422_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fssz6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=tqVOGerJ2QQAX9NdfJa&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9ObaALs6MRE5AMzDimSHuT0K8KehtOrKgLg01sNv0-mQ&oe=631B5102&_nc_sid=8fd12b">
+  <img align="right" alt="Breno-pic" height="150" style="border-radius:50px;" 
+     src="![image](https://user-images.githubusercontent.com/80066352/202822273-2af9478e-5e4a-4623-9523-29c48a3d2042.png)">
 </div>
