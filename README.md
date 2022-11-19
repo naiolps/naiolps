@@ -9,7 +9,6 @@
 <a href="https://github.com/naiolps">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naiolps&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiolps&layout=compact&langs_count=7&theme=merko"/>
- </a>
 </div> 
 <div style="display: inline_block"><br>
 <img align="center" alt="Breno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -27,4 +26,5 @@
  
   <img align="right" alt="Breno-pic" height="150" style="border-radius:50px;"
      src="https://instagram.fssz6-1.fna.fbcdn.net/v/t51.2885-19/315349828_870107324427085_6505116409576986160_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fssz6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=MrFjWcMeZnAAX9zpk0X&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfBCBOwf3zLRxaI7RlWM3_JlNrbiovROLqQAqOvYT6U-9g&oe=637D5AC7&_nc_sid=1527a3">
+  </a>
 </div>
