@@ -20,9 +20,9 @@
   
 ##
 <div >
-<a href="https://www.instagram.com/breno.ps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:pereiradossantosbreno4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  <a href="https://www.linkedin.com/in/breno-pereira-dos-santos-110796257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:pereiradossantosbreno4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="https://www.instagram.com/breno.ps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a>
   <img align="right" alt="Breno-pic" height="150" style="border-radius:50px;"
      src="https://instagram.fssz6-1.fna.fbcdn.net/v/t51.2885-19/315349828_870107324427085_6505116409576986160_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fssz6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=MrFjWcMeZnAAX9zpk0X&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfBCBOwf3zLRxaI7RlWM3_JlNrbiovROLqQAqOvYT6U-9g&oe=637D5AC7&_nc_sid=1527a3">
